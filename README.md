@@ -1,4 +1,4 @@
-# check out my other page!
+# A collection of all my studies during my Quantitative Finance Masters!
 [a relative link](https://github.com/asharbutt/asharbutt.github.io/blob/main/index.html)
 
 
