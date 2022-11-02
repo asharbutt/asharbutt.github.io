@@ -1,2 +1,2 @@
 # check out my other page!
-[a relative link] (index.html)
+[a relative link](https://github.com/asharbutt/asharbutt.github.io/blob/main/index.html)
